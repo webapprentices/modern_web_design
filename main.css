@@ -18,3 +18,7 @@ nav a:hover {
 a {
   color: red;
 }
+
+a:hover {
+  color: #800080;
+} 
