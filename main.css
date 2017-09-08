@@ -6,11 +6,12 @@ nav {
   font-size: 3em;
   font-weight: bold;
   font-family: hobo-std, sans-serif;
+  text-decoration: none;
 }
 nav a:link {
-    color: green;
+  color: green;
 }
 
 nav a:hover {
-    color: red;
+  color: red;
 } 
