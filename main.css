@@ -29,3 +29,10 @@ main p img {
   margin: 2px;
   padding: 2px;
 }
+
+footer {
+  border: 1px solid #800080;
+  padding: 10px;
+  font-size: .8em;
+  font-color: #800080;
+}
