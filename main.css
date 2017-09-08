@@ -2,7 +2,7 @@ body {
   background-color: lightblue;
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
-nav {
+nav a {
   font-size: 3em;
   font-weight: bold;
   font-family: hobo-std, sans-serif;
