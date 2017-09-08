@@ -11,12 +11,8 @@ nav a {
   text-decoration: none;
 }
 
-nav a:link {
-  color: green;
-}
-
 nav a:hover {
-  color: red;
+  color: #800080;
 } 
 
 a {
