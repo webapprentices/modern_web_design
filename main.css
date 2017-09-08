@@ -32,7 +32,7 @@ main p img {
 
 footer {
   border: 1px solid #800080;
-  padding: 0 10px;
+  padding: 0 14px;
   font-size: .8em;
-  font-family:courier, courier new, serif;
+  font-family: courier, courier new, serif;
 }
