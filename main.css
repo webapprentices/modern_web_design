@@ -15,3 +15,7 @@ nav a:link {
 nav a:hover {
   color: red;
 } 
+
+a {
+  color: red;
+}
