@@ -7,3 +7,10 @@ nav {
   font-weight: bold;
   font-family: hobo-std, sans-serif;
 }
+nav a:link {
+    color: green;
+}
+
+nav a:hover {
+    color: red;
+} 
