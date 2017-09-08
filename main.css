@@ -27,4 +27,5 @@ a:hover {
 main p img {
   border: 2px solid red;
   margin: 2px;
+  padding: 2px;
 }
