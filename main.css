@@ -40,3 +40,6 @@ footer {
   font-size: .8em;
   font-family: "Times New Roman", Times, serif;
 }
+.floated {
+  float: right;
+}
