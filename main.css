@@ -33,6 +33,8 @@ main p img {
 }
 
 footer {
+  background-image: url(paisley_1.jpg);
+  background-repeat: repeat;
   border: 1px solid #800080;
   padding: 0 14px;
   font-size: .8em;
