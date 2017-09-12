@@ -43,3 +43,6 @@ footer {
 .floated {
   float: left;
 }
+.clear {
+  clear: left;
+}
