@@ -42,6 +42,7 @@ footer {
 }
 .floated {
   float: left;
+  margin-right: 10px;
 }
 .clear {
   clear: both;
