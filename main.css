@@ -44,5 +44,5 @@ footer {
   float: left;
 }
 .clear {
-  clear: left;
+  clear: both;
 }
