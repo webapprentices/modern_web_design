@@ -46,3 +46,6 @@ footer {
 .clear {
   clear: both;
 }
+.margin {
+  margin-bottom: 10px; 
+}
