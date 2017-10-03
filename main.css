@@ -26,6 +26,10 @@ a:hover {
   color: #800080;
 } 
 
+img {
+  max-width: 100%; // for responsive images
+  height: auto;
+}
 p img {
   border: 2px solid red;
   margin: 2px;
