@@ -64,3 +64,47 @@ footer {
 .margin {
   margin-bottom: 6px; 
 }
+
+// This code borrowed from 
+// https://www.ostraining.com/blog/coding/transition-and-transform-css3/
+// for the purpose of creating a hover effect with CSS3 transition and transform properties
+// to the first image on the fashion page
+
+.block {
+    display: block;
+    height: 507px; // 425px;
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative;
+    width: 697px; // 640px;
+}
+.block img {
+    transition: all 1s ease-in-out 0s;
+    -moz-transition: all 1s ease-in-out 0s;
+    -webkit-transition: all 1s ease-in-out 0s;
+    -o-transition: all 1s ease-in-out 0s;
+}
+.block .block-caption {
+    background: rgba(0,0,0,0.6);
+    bottom: 0;
+    color: #fff;
+    display: table;
+    left: 0;
+    opacity: 0;
+    padding: 10px 0;
+    position: absolute;
+    transition: all 0.2s ease-in-out 0s;
+    -moz-transition: all 0.2s ease-in-out 0s;
+    -webkit-transition: all 0.2s ease-in-out 0s;
+    -o-transition: all 0.2s ease-in-out 0s;
+    width: 697px; // 640px;
+}
+.block:hover .block-caption {
+    opacity: 1;
+}
+.block:hover img {
+    transform: scale(1.5) rotateZ(-5deg);
+    -moz-transform: scale(1.5) rotateZ(-5deg);
+    -webkit-transform: scale(1.5) rotateZ(-5deg);
+    -o-transform: scale(1.5) rotateZ(-5deg);
+}
