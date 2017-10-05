@@ -108,3 +108,11 @@ footer {
     -webkit-transform: scale(1.5) rotateZ(-5deg);
     -o-transform: scale(1.5) rotateZ(-5deg);
 }
+
+// end transform styles
+
+@media only screen and (max-width: 20em) {
+  nav {
+    font-size: 3em;
+  }
+}
