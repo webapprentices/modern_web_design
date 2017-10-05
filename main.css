@@ -64,6 +64,9 @@ footer {
 .margin {
   margin-bottom: 6px; 
 }
+li {
+  list-style-type: none; 
+}
 
 // This code borrowed from 
 // https://www.ostraining.com/blog/coding/transition-and-transform-css3/
