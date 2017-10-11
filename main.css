@@ -40,6 +40,9 @@ main p img {
   margin: 2px;
   padding: 2px;
 }
+.logo {
+  border: 0;
+}
 
 footer {
   background-image: url(paisley_2.png);
