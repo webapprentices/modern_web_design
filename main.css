@@ -41,7 +41,7 @@ main p img {
   padding: 2px;
 }
 .logo {
-  border: 0;
+  border: none;
 }
 
 footer {
