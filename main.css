@@ -44,7 +44,7 @@ img {
 
 main p img {
   border: 2px solid red;
-  margin: 2px;
+  margin: 4px 2px;
   padding: 2px;
 }
 .logo {
