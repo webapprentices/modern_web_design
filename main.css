@@ -2,7 +2,7 @@ body {
   background-color: #E6E6FA;
   background-image: url(paisley_3.jpg);
   background-repeat: repeat;
-  font-size: 16px;
+  font-size: 1em;
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
   padding: 10px;
 }
@@ -19,6 +19,9 @@ nav a:hover {
   color: #800080;
 } 
 
+h2 {
+ font-size: 1.5em; 
+}
 a {
   color: red;
 }
