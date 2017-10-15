@@ -38,13 +38,13 @@ img {
   max-width: 100%; // for responsive images
   height: auto;
   border: 2px solid red;
-  margin: 2px;
+  margin: 4px 2px;
   padding: 2px;
 }
 
 main p img {
   border: 2px solid red;
-  margin: 4px 2px;
+  margin: 2px;
   padding: 2px;
 }
 .logo {
