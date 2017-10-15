@@ -19,9 +19,10 @@ nav a:hover {
   color: #800080;
 } 
 
-header h2 {
- font-size: 1.5em; 
+header {
+ font-size: 2em; 
 }
+
 a {
   color: red;
 }
